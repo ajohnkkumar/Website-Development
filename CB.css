@@ -1,0 +1,114 @@
+                .header {
+                    height: 300px;
+                    width: 1000px;
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+                
+                .h1 {
+                    height: 250px;
+                    width: 1000px;
+                }
+                
+                .L {
+                    float: left;
+                }
+                
+                .Name {
+                    height: 250px;
+                    width: 700px;
+                    float: right;
+                    background-color: bisque;
+                }
+                
+                .n {
+                    position: relative;
+                    text-align: center;
+                    top: 100px;
+                    left: 100px;
+                    font-family: 'Times New Roman', Times, serif;
+                    font-size: 40px;
+                    color: crimson;
+                }
+                
+                .m {
+                    height: 50px;
+                    width: 1000px;
+                    background-color: darkkhaki;
+                }
+                
+                .m ul {
+                    margin: 0px;
+                    padding: 0px;
+                }
+                
+                .m li {
+                    display: inline;
+                    padding: 50px;
+                }
+                
+                .m a {
+                    text-decoration: none;
+                    color: rgb(10, 3, 1);
+                    margin-top: 20px;
+                    font-size: 25px;
+                }
+                
+                .footer {
+                    margin-left: auto;
+                    margin-right: auto;
+                    padding: 3px;
+                    text-align: center;
+                    width: 1000px;
+                    background-color: papayawhip;
+                    font-size: 25px;
+                }
+                
+                .heading,
+                .content {
+                    margin-left: 150px;
+                    margin-right: 700px;
+                    width: 1000px;
+                }
+                
+                .img1 {
+                    margin-left: 200px;
+                    margin-right: 700px;
+                }
+                
+                .im5 {
+                    float: left;
+                }
+                
+                .service {
+                    width: 1000px;
+                    margin-left: 150px;
+                    margin-right: 700px;
+                }
+                
+                .contact {
+                    height: 500px;
+                    width: 1000px;
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+                
+                .map {
+                    left: 100px;
+                    float: left;
+                }
+                
+                .add {
+                    height: 250px;
+                    width: 1000px;
+                    float: left;
+                    text-align: center;
+                    font-size: 24px;
+                }
+                
+                .register {
+                    height: 500px;
+                    width: 1000px;
+                    margin-left: auto;
+                    margin-right: auto;
+                }
